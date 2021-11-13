@@ -14,3 +14,4 @@ C:\Users\AFinnerty\source\repos\Reactivities\Application\obj\Debug\net5.0\Applic
 C:\Users\AFinnerty\source\repos\Reactivities\Application\obj\Debug\net5.0\Application.dll
 C:\Users\AFinnerty\source\repos\Reactivities\Application\obj\Debug\net5.0\ref\Application.dll
 C:\Users\AFinnerty\source\repos\Reactivities\Application\obj\Debug\net5.0\Application.pdb
+C:\Users\AFinnerty\source\repos\Reactivities\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
